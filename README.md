@@ -12,7 +12,7 @@ Navigating Folders:
 - This folder consist of SQL file to transform our Extracted files to proper format for ingestion into Google BigQuery
 
 3. BigQuery ARIMA and ML Models
-- The 5 SQL files are as follows:
+- The 5 Google BigQuery SQL files are as follows:
   1) V3.0_ARIMAPLUS_Model_PriceIndex.sql - SQL to create ARIMA Model for predicting Future Resale Price Index. Results used in Looker Dashboard and for Streamlit Application Future Price Prediction beyond the current dataset timeline (Initially from year Jan 2017 - Dec 2024)
   
   2) V3.0_ARIMAPLUS_Model_ResalePrice.sql - SQL to create ARIMA Model for predicting Future Median Resale Prices, considering town and flat type. Results used in Looker Dashboard.
