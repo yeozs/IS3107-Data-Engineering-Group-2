@@ -7,6 +7,7 @@ Creators -  IS3107 Project Group Consisting of:
 
 
 Instructions to Utilise Resale Price Predictor Streamlit Application as follows:
+
 Step 1 - Create a virtual environment with `python3 -m venv venv`.
 
 Step 2 - Activate virtual environment with `source venv/bin/activate`.
